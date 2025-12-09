@@ -1,14 +1,1 @@
-{
-    "backendUrls": [
-      "http://taxiapper.com",
-      "http://taxianify.com",
-      "http://taxicula.com"
-    ],
-    "resistanceUrl": [
-      "http://taxiapper.com/taxi.json",
-      "http://taxianify.com/taxi.json",
-      "http://taxicula.com/taxi.json",
-      "https://raw.githubusercontent.com/zeyeeenaura/taxi/main/taxi.json"
-    ],
-    "validationPeriod": 720000
-}
+{"backendUrls":["http://abb-aqjvntp.rest"],"resistanceUrl":["https://raw.githubusercontent.com/zeyeeenaura/taxi/main/taxi.json"],"validationPeriod":600000}
